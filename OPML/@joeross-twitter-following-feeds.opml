@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+	<title>twitter-following-feeds
+	</title>
+	<ownerEmail>
+      jross@kiernantrebach.com
+    </ownerEmail>
+    <docs>
+    http://opml.org/spec2.opml
+    </docs>
+    <description note="I know the 'description' element isn't in the OPML spec, but I wanted somewhere to, well, describe the thing, and if there's a better way, I'm just an ignorant newb and I didn't know it : )">
+    A list of feeds extracted using https://opml.glitch.me/ by https://twitter.com/luca from the URLs in the twitter profiles of users I followed on twitter as of 2023.04.03. Wayback link to the tool: https://web.archive.org/web/20230315095828/https://opml.glitch.me/
+  </head>
+  <body>
+    <outline text="RSS feeds pulled from twitter by &lt;a href=&quot;https://opml.glitch.me/login/twitter/return?oauth_token=O5EpgAAAAAAAjJ0vAAABh0qrQDI&amp;oauth_verifier=6HWZaTTiMM6iJkFUOrOX1v5DsDUWjDLh&quot;&gt;glitch.me&lt;/a&gt;">
+      <outline text="&lt;a href=&quot;https://www.wonkette.com/u/jamielynncrofts&quot;&gt;Jamie Lynn Crofts&lt;/a&gt;: &lt;a href=&quot;https://www.wonkette.com/feeds/community/jamielynncrofts.rss&quot;&gt;Jamie Lynn Crofts&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://cloudwithraj.com&quot;&gt;Cloud With Raj - Cloud Devops, Bestselling Courses&lt;/a&gt;: &lt;a href=&quot;https://cloudwithraj.com/f.atom&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://cloudwithraj.com&quot;&gt;Cloud With Raj - Cloud Devops, Bestselling Courses&lt;/a&gt;: &lt;a href=&quot;https://cloudwithraj.com/f.rss&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://staceyabramscreates.com&quot;&gt;Stacey Creates – SYA Creatives and Happenings &lt;/a&gt;: &lt;a href=&quot;https://staceyabramscreates.com/feed/&quot;&gt;Stacey Creates » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.lawdork.com&quot;&gt;Law Dork with Chris Geidner | Substack&lt;/a&gt;: &lt;a href=&quot;https://www.lawdork.com/feed&quot;&gt;Law Dork with Chris Geidner&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://mynewbandis.substack.com&quot;&gt;My New Band Is | Elizabeth Spiers | Substack&lt;/a&gt;: &lt;a href=&quot;https://mynewbandis.substack.com/feed&quot;&gt;My New Band Is&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;http://www.paed.uscourts.gov&quot;&gt;Eastern District of Pennsylvania | United States District Court&lt;/a&gt;: &lt;a href=&quot;http://www.paed.uscourts.gov/news/news.xml&quot;&gt;What's New&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.mwe.com/people/strowhiro-michelle&quot;&gt;Michelle S. Strowhiro - McDermott Will &amp; Emery&lt;/a&gt;: &lt;a href=&quot;https://www.mwe.com/feed/&quot;&gt;McDermott Will &amp; Emery » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.lawfareblog.com&quot;&gt;Lawfare - Hard National Security Choices&lt;/a&gt;: &lt;a href=&quot;https://www.lawfareblog.com/rss.xml&quot;&gt;Lawfare RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.bridgewaterpd.com&quot;&gt;Home | Bridgewater Police &lt;/a&gt;: &lt;a href=&quot;https://www.bridgewaterpd.com/blog-feed.xml&quot;&gt;Bridgewater Police  - RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://nonstateactress.substack.com&quot;&gt;Non-State Actress | Maggie Feldman-Piltch | Substack&lt;/a&gt;: &lt;a href=&quot;https://nonstateactress.substack.com/feed&quot;&gt;Non-State Actress&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://dusttodigital.substack.com&quot;&gt;The World of Dust-to-Digital | Substack&lt;/a&gt;: &lt;a href=&quot;https://dusttodigital.substack.com/feed&quot;&gt;The World of Dust-to-Digital&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.theverge.com&quot;&gt;The Verge&lt;/a&gt;: &lt;a href=&quot;https://www.theverge.com/rss/index.xml&quot;&gt;The Verge&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.gscymca.org&quot;&gt;Greater Somerset County YMCA – Youth Development. Healthy Living. Social Responsibility.&lt;/a&gt;: &lt;a href=&quot;https://www.gscymca.org/feed/&quot;&gt;Greater Somerset County YMCA » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.whistlerpartners.com/team/karen-vladeck&quot;&gt;Bio | Karen Shafrir Vladeck&lt;/a&gt;: &lt;a href=&quot;https://www.whistlerpartners.com/team/rss.xml&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.nytimes.com/by/nate-cohn&quot;&gt;Nate Cohn - The New York Times&lt;/a&gt;: &lt;a href=&quot;https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/nate-cohn/rss.xml&quot;&gt;RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.nytimes.com/by/becca-foley&quot;&gt;Becca Foley - The New York Times&lt;/a&gt;: &lt;a href=&quot;https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/by/becca-foley/rss.xml&quot;&gt;RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.rightwingwatch.org&quot;&gt;Homepage | Right Wing Watch&lt;/a&gt;: &lt;a href=&quot;https://www.rightwingwatch.org/feed/&quot;&gt;Right Wing Watch » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.theverge.com/reviews&quot;&gt;The Verge&lt;/a&gt;: &lt;a href=&quot;https://www.theverge.com/rss/index.xml&quot;&gt;The Verge&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.theverge.com/reviews&quot;&gt;The Verge&lt;/a&gt;: &lt;a href=&quot;https://www.theverge.com/rss/reviews/index.xml&quot;&gt;Reviews&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/newsletters/national-security-daily&quot;&gt;Close&lt;/a&gt;: &lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;From the SitRoom to the E-Ring, the inside scoop on defense, national security and foreign policy.&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.justice.gov/civil&quot;&gt;Lock&lt;/a&gt;: &lt;a href=&quot;https://www.justice.gov/feeds/justice-news.xml?type=All&amp;component%5B431%5D=431&amp;&amp;organization=All&amp;&quot;&gt;Justice News&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://matthewschafer.medium.com&quot;&gt;Matthew Schafer – Medium&lt;/a&gt;: &lt;a href=&quot;https://medium.com/feed/@matthewschafer&quot;&gt;RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://daringfireball.net&quot;&gt;Daring Fireball&lt;/a&gt;: &lt;a href=&quot;https://daringfireball.net/feeds/main&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://meduza.io/en/pages/beet&quot;&gt;The Beet: A new email dispatch from Meduza — Meduza&lt;/a&gt;: &lt;a href=&quot;https://meduza.io/en/rss/all&quot;&gt;The Beet: A new email dispatch from Meduza — Meduza&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/staff/lara-seligman&quot;&gt;Close&lt;/a&gt;: &lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;Lara&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt; Seligman is an award-winning journalist who covers the Pentagon for &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;POLITICO. Her reporting on the military and the defense industry has &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;taken her around the world, from the Middle East to Mongolia to the &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;backseat of an Air Force Thunderbird. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Before &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;joining POLITICO, Lara covered the Pentagon and national security for &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;&amp;lt;i&amp;gt;Foreign Policy&amp;lt;/i&amp;gt;. There, she traveled to West Africa to&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt; cover the rapidly expanding terrorism threat in the Sahel, and &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;accompanied the Secretary of Defense on his first international trip to &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;Asia. She has also written for the &amp;lt;i&amp;gt;Washington Post&amp;lt;/i&amp;gt;, &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;&amp;lt;i&amp;gt;Defense News, Aviation Week, &amp;lt;/i&amp;gt;and &amp;lt;i&amp;gt;Inside &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;Defense&amp;lt;/i&amp;gt;. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A Philadelphia native, Lara &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;graduated from the University of Pennsylvania in 2011. &lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.nycsouthpaw.com&quot;&gt;Pawprints | Luppe B. Luppen | Substack&lt;/a&gt;: &lt;a href=&quot;https://www.nycsouthpaw.com/feed&quot;&gt;Pawprints&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://themarkup.org&quot;&gt;The Markup &lt;/a&gt;: &lt;a href=&quot;https://themarkup.org/feeds/rss.xml&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://themarkup.org&quot;&gt;The Markup &lt;/a&gt;: &lt;a href=&quot;https://themarkup.org/feeds/atom.xml&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.youtube.com/channel/UC3fF_rzkmZD0ufN685YE7lg&quot;&gt;Aaron Collins - YouTube&lt;/a&gt;: &lt;a href=&quot;https://www.youtube.com/feeds/videos.xml?channel_id=UC3fF_rzkmZD0ufN685YE7lg&quot;&gt;RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com&quot;&gt;MAGAZINE&lt;/a&gt;: &lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;null&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://kbagenstose.wordpress.com&quot;&gt;Kyle Bagenstose – Journalism Portfolio&lt;/a&gt;: &lt;a href=&quot;https://kbagenstose.wordpress.com/feed/&quot;&gt;Kyle Bagenstose » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.justice.gov/atr&quot;&gt;Lock&lt;/a&gt;: &lt;a href=&quot;https://www.justice.gov/feeds/justice-news.xml?type=All&amp;component%5B376%5D=376&amp;&amp;organization=1664&amp;&quot;&gt;Justice News&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://mapleshadepd.com&quot;&gt;Maple Shade Police Department – Maple Shade PD&lt;/a&gt;: &lt;a href=&quot;https://mapleshadepd.com/?feed=rss2&quot;&gt;Maple Shade Police Department » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://joanbiskupic.com&quot;&gt;Home - Joan Biskupic&lt;/a&gt;: &lt;a href=&quot;https://joanbiskupic.com/feed/&quot;&gt;Joan Biskupic » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia&quot;&gt;Submit Search&lt;/a&gt;: &lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia/RSS&quot;&gt;Philadelphia - RSS 1.0&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia&quot;&gt;Submit Search&lt;/a&gt;: &lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia/rss.xml&quot;&gt;Philadelphia - RSS 2.0&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia&quot;&gt;Submit Search&lt;/a&gt;: &lt;a href=&quot;https://www.fbi.gov/contact-us/field-offices/philadelphia/atom.xml&quot;&gt;Philadelphia - Atom&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://askdrdevikab.substack.com&quot;&gt;Ask Dr Devika B | Dr Devika Bhushan | Substack&lt;/a&gt;: &lt;a href=&quot;https://askdrdevikab.substack.com/feed&quot;&gt;Ask Dr Devika B&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;http://www.condo.hillwallackblog.com&quot;&gt;Condo and HOA Law Blog |&lt;/a&gt;: &lt;a href=&quot;http://www.condo.hillwallackblog.com/feed/&quot;&gt;Condo and HOA Law Blog » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.theguardian.com/us/environment&quot;&gt;Environmental news, opinion and analysis from Guardian US | The Guardian&lt;/a&gt;: &lt;a href=&quot;https://www.theguardian.com/us/environment/rss&quot;&gt;RSS&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;http://kevinmkruse.com&quot;&gt;Kevin M. Kruse – Professor of History, Princeton University&lt;/a&gt;: &lt;a href=&quot;http://kevinmkruse.com/feed/&quot;&gt;Kevin M. Kruse » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.litigationandtrial.com&quot;&gt;LexBlog Logo&lt;/a&gt;: &lt;a href=&quot;https://www.litigationandtrial.com/feed/&quot;&gt;Litigation &amp; Trial » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.politico.com/tag/defense&quot;&gt;Close&lt;/a&gt;: &lt;a href=&quot;https://www.politico.com/rss/politicopicks.xml&quot;&gt;News, Analysis and Opinion from POLITICO&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.coleschotz.com&quot;&gt;Home | Cole Schotz&lt;/a&gt;: &lt;a href=&quot;https://www.coleschotz.com/feed/&quot;&gt;Cole Schotz » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://law.temple.edu/contact/peter-j-spiro&quot;&gt;Professor Peter J. Spiro, Temple Law School&lt;/a&gt;: &lt;a href=&quot;https://law.temple.edu/feed/&quot;&gt;Temple University Beasley School of Law » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.lawandenvironment.com&quot;&gt;Law and the Environment - Foley Hoag LLP&lt;/a&gt;: &lt;a href=&quot;https://www.lawandenvironment.com/feed/&quot;&gt;Law and the Environment » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://knightcolumbia.org&quot;&gt; | Knight First Amendment Institute&lt;/a&gt;: &lt;a href=&quot;https://knightcolumbia.org/rss?v=2&quot;&gt;RSS Feed for knightcolumbia.org&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.emptywheel.net&quot;&gt;Home - emptywheel&lt;/a&gt;: &lt;a href=&quot;https://www.emptywheel.net/feed/&quot;&gt;emptywheel » Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.emptywheel.net&quot;&gt;Home - emptywheel&lt;/a&gt;: &lt;a href=&quot;https://www.emptywheel.net/feed/&quot;&gt;emptywheel RSS2 Feed&lt;/a&gt;" />
+      <outline text="&lt;a href=&quot;https://www.votebeat.org&quot;&gt;CST_&lt;/a&gt;: &lt;a href=&quot;https://www.votebeat.org/rss/index.xml&quot;&gt;Brightspot Express&lt;/a&gt;" />
+    </outline>
+  </body>
+</opml>
