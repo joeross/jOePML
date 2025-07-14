@@ -5,247 +5,82 @@
 	</head>
 	<body>
 		<outline text="feeds">
-			<outline type="rss" text="Science Quickly" xmlUrl="https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=science-talk" applePodcastsID="122384595"/>
-			<outline type="rss" text="Clarkesworld Magazine" xmlUrl="https://clarkesworldmagazine.com/?feed=podcast" applePodcastsID="288472896"/>
-			<outline type="rss" text="DIS Unlimited" xmlUrl="https://feeds.acast.com/public/shows/64b9c1d15aa4ce0011519cee" applePodcastsID="160064459"/>
-			<outline type="rss" text="The Incomparable Mothership" xmlUrl="https://feeds.theincomparable.com/theincomparable" applePodcastsID="388887532"/>
-			<outline type="rss" text="Bullseye with Jesse Thorn" xmlUrl="https://feeds.npr.org/510309/podcast.xml" applePodcastsID="73331298"/>
 			<outline type="rss" text="ADHD Experts Podcast" xmlUrl="https://additudemag.libsyn.com/rss" applePodcastsID="668174671"/>
-			<outline type="rss" text="ResortLoop.com - A Walt Disney World Podcast!" xmlUrl="https://resortloop.libsyn.com/rss" applePodcastsID="600083895"/>
-			<outline type="rss" text="Podcasts - Insurance Journal" xmlUrl="https://www.insurancejournal.tv/channels/podcasts/feed/" applePodcastsID="671341524"/>
 			<outline type="rss" text="Roderick on the Line" xmlUrl="http://feeds.feedburner.com/RoderickOnTheLine" applePodcastsID="471418144"/>
-			<outline type="rss" text="Geekin&apos; On WDW | Trip Reports From A Community of Disney World Fans" xmlUrl="https://geekinonwdw.com/feed/podcast/" applePodcastsID="860504144"/>
 			<outline type="rss" text="Hello Internet" xmlUrl="http://www.hellointernet.fm/podcast?format=rss" applePodcastsID="811377230"/>
-			<outline type="rss" text="This Week in Law (Audio)" xmlUrl="https://feeds.twit.tv/twil.xml" applePodcastsID="202795271"/>
 			<outline type="rss" text="The Talk Show With John Gruber" xmlUrl="https://daringfireball.net/thetalkshow/rss" applePodcastsID="528458508"/>
-			<outline type="rss" text="Happily Ever After Is Just The Beginning! - Lesli Doares, LMFT" xmlUrl="https://webtalkradio.net/internet-talk-radio/category/podcasts/love-and-relationships/happily-ever-after-is-just-the-beginning/feed/" applePodcastsID="919142862"/>
-			<outline type="rss" text="The Rebound" xmlUrl="https://rss.art19.com/the-rebound" applePodcastsID="920242161"/>
-			<outline type="rss" text="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" applePodcastsID="665964031"/>
-			<outline type="rss" text="Astonishing Legends" xmlUrl="https://audioboom.com/channels/4322549.rss" applePodcastsID="923527373"/>
 			<outline type="rss" text="Amicus With Dahlia Lithwick | Law, justice, and the courts" xmlUrl="https://feeds.megaphone.fm/slatesamicuswithdahlialithwick" applePodcastsID="928790786"/>
 			<outline type="rss" text="Techdirt" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:122508048/sounds.rss" applePodcastsID="940871872"/>
 			<outline type="rss" text="What&apos;s popular on Huffduffer" xmlUrl="https://huffduffer.com/popular/rss"/>
-			<outline type="rss" text="The Global Energy &amp; Environmental Law Podcast" xmlUrl="https://feed.podbean.com/theglobalenergyandenvironmentallaw/feed.xml" applePodcastsID="954194668"/>
-			<outline type="rss" text="Rocket" xmlUrl="https://www.relay.fm/rocket/feed" applePodcastsID="959773870"/>
 			<outline type="rss" text="This American Life" xmlUrl="https://www.thisamericanlife.org/podcast/rss.xml" applePodcastsID="201671138"/>
 			<outline type="rss" text="Reconcilable Differences" xmlUrl="https://www.relay.fm/rd/feed" applePodcastsID="1001591287"/>
-			<outline type="rss" text="The Generation Why Podcast" xmlUrl="https://rss.art19.com/generation-why-podcast" applePodcastsID="541481026"/>
 			<outline type="rss" text="Cortex" xmlUrl="https://www.relay.fm/cortex/feed" applePodcastsID="1001591696"/>
-			<outline type="rss" text="Radiolab" xmlUrl="http://feeds.feedburner.com/radiolab" applePodcastsID="152249110"/>
-			<outline type="rss" text="Thoroughly Considered" xmlUrl="https://www.relay.fm/tc/feed" applePodcastsID="1041995154"/>
 			<outline type="rss" text="U.S. Supreme Court Oral Arguments" xmlUrl="https://api.oyez.org/podcasts/oral-arguments/2015" applePodcastsID="1048210550"/>
 			<outline type="rss" text="Connected" xmlUrl="https://www.relay.fm/connected/feed" applePodcastsID="909109652"/>
 			<outline type="rss" text="joeross on Huffduffer" xmlUrl="https://huffduffer.com/joeross/rss"/>
 			<outline type="rss" text="Upgrade" xmlUrl="https://www.relay.fm/upgrade/feed" applePodcastsID="918152703"/>
 			<outline type="rss" text="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" applePodcastsID="1055685246"/>
-			<outline type="rss" text="Inquisitive" xmlUrl="https://www.relay.fm/inquisitive/feed" applePodcastsID="909109678"/>
-			<outline type="rss" text="Liftoff" xmlUrl="https://www.relay.fm/liftoff/feed" applePodcastsID="1031275911"/>
 			<outline type="rss" text="Mac Power Users" xmlUrl="https://www.relay.fm/mpu/feed" applePodcastsID="458066753"/>
-			<outline type="rss" text="Environmental Law Explored: A Podcast SEERies" xmlUrl="https://abaseer.libsyn.com/rss" applePodcastsID="1086221755"/>
 			<outline type="rss" text="The Faster Than Normal Podcast: ADD | ADHD | Health" xmlUrl="https://fasterthannormal.libsyn.com/rss" applePodcastsID="1087851721"/>
-			<outline type="rss" text="ABA Journal: Modern Law Library" xmlUrl="https://feeds.megaphone.fm/LTN6296255237" applePodcastsID="1104472527"/>
-			<outline type="rss" text="See in ADHD" xmlUrl="https://feed.awesound.com/padhd?source=itunes&amp;v=05" applePodcastsID="1096987579"/>
-			<outline type="rss" text="Ungeniused" xmlUrl="https://www.relay.fm/ungeniused/feed" applePodcastsID="1122025600"/>
-			<outline type="rss" text="Uncovering Unexplained Mysteries" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:233937588/sounds.rss" applePodcastsID="1124766414"/>
 			<outline type="rss" text="Dan Carlin&apos;s Hardcore History" xmlUrl="https://feeds.feedburner.com/dancarlin/history?format=xml" applePodcastsID="173001861"/>
-			<outline type="rss" text="First Mondays" xmlUrl="https://rss.simplecast.com/podcasts/3294/rss"/>
-			<outline type="rss" text="The Changelog: Software Development, Open Source" xmlUrl="https://changelog.com/podcast/feed" applePodcastsID="341623264"/>
 			<outline type="rss" text="Close All Tabs" xmlUrl="https://feeds.megaphone.fm/KQINC6993880386" applePodcastsID="214663465"/>
 			<outline type="rss" text="Oral Arguments for the Supreme Court of the United States" xmlUrl="https://www.courtlistener.com/podcast/court/scotus/" applePodcastsID="1187748137"/>
 			<outline type="rss" text="Oral Arguments for the Court of Appeals for the Third Circuit" xmlUrl="https://www.courtlistener.com/podcast/court/ca3/" applePodcastsID="1187748774"/>
-			<outline type="rss" text="Defending Employers" xmlUrl="https://feeds.fireside.fm/lois/rss" applePodcastsID="1173334376"/>
 			<outline type="rss" text="Good One: A Podcast About Jokes" xmlUrl="https://feeds.megaphone.fm/VMP8521265258" applePodcastsID="1203393721"/>
-			<outline type="rss" text="Music For Programming" xmlUrl="https://musicforprogramming.net/rss.php" applePodcastsID="500565620"/>
-			<outline type="rss" text="Addicted to the Mouse: Disney Podcast | Disney World, Universal, &amp; Cruise Vacation Planning" xmlUrl="https://addictedtothemouse.com/feed/podcast/" applePodcastsID="1211525783"/>
 			<outline type="rss" text="AppStories" xmlUrl="https://appstories.net/episodes/feed/" applePodcastsID="1227872143"/>
-			<outline type="rss" text="Where Should We Begin? with Esther Perel" xmlUrl="https://feeds.megaphone.fm/ep-wswb" applePodcastsID="1237931798"/>
-			<outline type="rss" text="Mobile Tech Podcast with tnkgrl Myriam Joire" xmlUrl="https://feeds.simplecast.com/D6WO3ndr" applePodcastsID="1237619522"/>
-			<outline type="rss" text="The Oasis Podcast" xmlUrl="https://audioboom.com/channels/4907777.rss" applePodcastsID="1224373139"/>
-			<outline type="rss" text="The Recasting Couch Movie Podcast" xmlUrl="https://therecastingcouch.libsyn.com/rss" applePodcastsID="1247702762"/>
-			<outline type="rss" text="Tomorrow" xmlUrl="https://feeds.theoutline.com/tomorrow" applePodcastsID="983692635"/>
-			<outline type="rss" text="An American Workplace | A &apos;The Office&apos; Podcast" xmlUrl="https://feeds.fireside.fm/workplacepod/rss" applePodcastsID="1260186482"/>
-			<outline type="rss" text="Station 71: A Walt Disney World Podcast" xmlUrl="https://station71podcast.libsyn.com/rss" applePodcastsID="1263364594"/>
-			<outline type="rss" text="Tis the Podcast" xmlUrl="https://feed.podbean.com/tisthepodcast/feed.xml" applePodcastsID="1272483416"/>
-			<outline type="rss" text="Ologies with Alie Ward" xmlUrl="https://feeds.simplecast.com/FO6kxYGj" applePodcastsID="1278815517"/>
-			<outline type="rss" text="Slow Radio" xmlUrl="https://podcasts.files.bbci.co.uk/p05k5bq0.rss" applePodcastsID="1297180610"/>
 			<outline type="rss" text="Core Intuition" xmlUrl="https://coreint.org/podcast.xml" applePodcastsID="281777685"/>
-			<outline type="rss" text="Trial Lawyer Nation" xmlUrl="https://feeds.captivate.fm/triallawyernation/" applePodcastsID="1341983666"/>
 			<outline type="rss" text="CourtListener.com: Podcast of All Oral Arguments available in the Federal Circuit Courts (High Volume)" xmlUrl="https://www.courtlistener.com/podcast/court/all/"/>
-			<outline type="rss" text="Disney Deciphered: a Disney World planning podcast" xmlUrl="https://disneydeciphered.libsyn.com/rss" applePodcastsID="1358532288"/>
-			<outline type="rss" text="Slow Burn" xmlUrl="https://feeds.megaphone.fm/watergate" applePodcastsID="1315040130"/>
-			<outline type="rss" text="Just Security" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:318195071/sounds.rss" applePodcastsID="1364610314"/>
-			<outline type="rss" text="Timely Notice" xmlUrl="https://timelynotice.libsyn.com/rss" applePodcastsID="1385660017"/>
 			<outline type="rss" text="Political Gabfest" xmlUrl="https://feeds.megaphone.fm/slatespoliticalgabfest" applePodcastsID="158004641"/>
-			<outline type="rss" text="Retro Disney World Podcast" xmlUrl="https://podcast.retrodisneyworld.com/feed.xml" applePodcastsID="935548315"/>
-			<outline type="rss" text="Automators" xmlUrl="https://www.relay.fm/automators/feed" applePodcastsID="1406364168"/>
-			<outline type="rss" text="Opening Arguments" xmlUrl="https://openargs.libsyn.com/" applePodcastsID="1147092464"/>
 			<outline type="rss" text="ADHD reWired" xmlUrl="https://adhdbrainpod.libsyn.com/rss" applePodcastsID="849400337"/>
-			<outline type="rss" text="QAA Podcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:492135420/sounds.rss" applePodcastsID="1428209307"/>
-			<outline type="rss" text="Bombshell" xmlUrl="https://bombshell.libsyn.com/rss" applePodcastsID="1195698408"/>
-			<outline type="rss" text="The Cyberlaw Podcast" xmlUrl="https://steptoecyber.libsyn.com/rss" applePodcastsID="836535581"/>
-			<outline type="rss" text="Double Your WDW: The Disney World Planning Podcast" xmlUrl="https://feed.podbean.com/Doubleyourwdw/feed.xml" applePodcastsID="1437179350"/>
-			<outline type="rss" text="Ipse Dixit" xmlUrl="https://feeds.acast.com/public/shows/5bb26c9287ef87811438a58b" applePodcastsID="1437836289"/>
-			<outline type="rss" text="What Next | Daily News and Analysis" xmlUrl="https://feeds.megaphone.fm/whatnext" applePodcastsID="1438906889"/>
-			<outline type="rss" text="ShopTalk" xmlUrl="https://shoptalkshow.com/feed/podcast/" applePodcastsID="493890455"/>
 			<outline type="rss" text="Decoder with Nilay Patel" xmlUrl="https://feeds.megaphone.fm/recodedecode" applePodcastsID="1011668648"/>
 			<outline type="rss" text="The Vergecast" xmlUrl="https://feeds.megaphone.fm/vergecast" applePodcastsID="430333725"/>
-			<outline type="rss" text="That Park Life: a Theme Park Podcast" xmlUrl="https://feed.podbean.com/thatparklifepodcast/feed.xml" applePodcastsID="1450585510"/>
-			<outline type="rss" text="Capture The Magic - Disney World Podcast | Disney World Travel Podcast | Disney World News &amp; Rumors Podcast" xmlUrl="https://feeds.simplecast.com/OxuKkNVQ" applePodcastsID="1255052408"/>
-			<outline type="rss" text="Main Street Magic - A Walt Disney World Podcast" xmlUrl="https://feeds.simplecast.com/ZY83mmKf" applePodcastsID="1271212128"/>
 			<outline type="rss" text="Accidental Tech Podcast" xmlUrl="https://atp.fm/rss" applePodcastsID="617416468"/>
-			<outline type="rss" text="SCOTUStalk" xmlUrl="https://feeds.acast.com/public/shows/5c7d6c6a80f32c6a7cdeca24" applePodcastsID="1454960147"/>
-			<outline type="rss" text="Talking Feds" xmlUrl="https://rss.art19.com/talking-feds" applePodcastsID="1456045551"/>
-			<outline type="rss" text="The Playbook Podcast" xmlUrl="https://feeds.megaphone.fm/ASD6963560714" applePodcastsID="1169056746"/>
-			<outline type="rss" text="Government Unfiltered" xmlUrl="https://muellerreport.libsyn.com/rss" applePodcastsID="1458985688"/>
-			<outline type="rss" text="The Listener" xmlUrl="https://www.listennotes.com/listen/the-listener-DM0Q4Vicl7R/rss/"/>
+			<outline type="rss" text="Talking Feds" xmlUrl="https://feeds.megaphone.fm/GEMINIMEDIA2127678588" applePodcastsID="1456045551"/>
 			<outline type="rss" text="Life Kit" xmlUrl="https://feeds.npr.org/510338/podcast.xml" applePodcastsID="1461493560"/>
-			<outline type="rss" text="UnCommon Law" xmlUrl="https://feeds.megaphone.fm/businessofbees" applePodcastsID="1462288566"/>
-			<outline type="rss" text="Dialog" xmlUrl="https://dialogpodcast.net/episodes/feed/" applePodcastsID="1465089356"/>
-			<outline type="rss" text="Strict Scrutiny" xmlUrl="https://feeds.simplecast.com/EyrYWMW2" applePodcastsID="1469168641"/>
 			<outline type="rss" text="How To!" xmlUrl="https://feeds.megaphone.fm/SLT1859464427" applePodcastsID="1469631127"/>
-			<outline type="rss" text="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" applePodcastsID="941907967"/>
-			<outline type="rss" text="On Being with Krista Tippett" xmlUrl="https://feeds.simplecast.com/AuAxH_Bf" applePodcastsID="150892556"/>
-			<outline type="rss" text="Jim Harold&apos;s Campfire" xmlUrl="https://feeds.megaphone.fm/JIMHAROLDMEDIALLC6451583612" applePodcastsID="310656913"/>
-			<outline type="rss" text="The Former Lawyer Podcast" xmlUrl="https://feeds.buzzsprout.com/2372424.rss" applePodcastsID="1475378148"/>
 			<outline type="rss" text="Mac OS Ken" xmlUrl="https://macosken.libsyn.com/rss" applePodcastsID="120867842"/>
 			<outline type="rss" text="Science Vs" xmlUrl="https://feeds.megaphone.fm/sciencevs" applePodcastsID="1051557000"/>
-			<outline type="rss" text="Listen Up - The Oasis Podcast" xmlUrl="https://listenupoasis.libsyn.com/rss" applePodcastsID="1477079450"/>
-			<outline type="rss" text="POLITICO Energy" xmlUrl="https://feeds.megaphone.fm/ASD3100338491" applePodcastsID="1480605295"/>
 			<outline type="rss" text="Hacking Your ADHD" xmlUrl="https://feeds.libsyn.com/549837/rss" applePodcastsID="1481135244"/>
-			<outline type="rss" text="May the Record Reflect" xmlUrl="https://feeds.buzzsprout.com/441178.rss" applePodcastsID="1484091952"/>
-			<outline type="rss" text="JDHD | A Podcast for Lawyers with ADHD" xmlUrl="https://feeds.buzzsprout.com/693199.rss" applePodcastsID="1490336759"/>
 			<outline type="rss" text="Today, Explained" xmlUrl="https://feeds.megaphone.fm/VMP5705694065" applePodcastsID="1346207297"/>
-			<outline type="rss" text="Lawtrades Podcast" xmlUrl="https://feeds.simplecast.com/KygDxhIZ" applePodcastsID="1567236177"/>
-			<outline type="rss" text="Insurance Covered" xmlUrl="https://feeds.acast.com/public/shows/5e258fe519301e0e38434eca" applePodcastsID="1496190710"/>
 			<outline type="rss" text="Scriptnotes Podcast" xmlUrl="https://scriptnotes.libsyn.com/rss" applePodcastsID="462495496"/>
 			<outline type="rss" text="You&apos;re Wrong About" xmlUrl="https://feeds.buzzsprout.com/1112270.rss" applePodcastsID="1380008439"/>
-			<outline type="rss" text="Flashback" xmlUrl="https://www.relay.fm/flashback/feed" applePodcastsID="1498617506"/>
-			<outline type="rss" text="Small Things Often" xmlUrl="https://feeds.megaphone.fm/smallthingsoften" applePodcastsID="1498172564"/>
-			<outline type="rss" text="Inside Medical Malpractice" xmlUrl="https://feeds.buzzsprout.com/866428.rss" applePodcastsID="1499718332"/>
 			<outline type="rss" text="POLITICO Tech" xmlUrl="https://feeds.megaphone.fm/ASD1382456044" applePodcastsID="1500970749"/>
-			<outline type="rss" text="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" applePodcastsID="290783428"/>
 			<outline type="rss" text="Fresh Air" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" applePodcastsID="214089682"/>
-			<outline type="rss" text="You Look Nice Today" xmlUrl="https://feeds.fireside.fm/youlooknicetoday/rss" applePodcastsID="277928864"/>
-			<outline type="rss" text="MyCBT" xmlUrl="https://feeds.buzzsprout.com/927541.rss" applePodcastsID="1505017310"/>
-			<outline type="rss" text="Uncanny Magazine Podcast" xmlUrl="https://uncannymagazine.libsyn.com/rss" applePodcastsID="933673232"/>
-			<outline type="rss" text="California King" xmlUrl="https://feeds.fireside.fm/californiaking/rss" applePodcastsID="1506058005"/>
 			<outline type="rss" text="MacBreak Weekly (Audio)" xmlUrl="https://feeds.twit.tv/mbw.xml" applePodcastsID="179237749"/>
-			<outline type="rss" text="Hot Coffee: A KBG Injury Lawcast" xmlUrl="https://hotcoffeekbg.libsyn.com/rss" applePodcastsID="1510005428"/>
-			<outline type="rss" text="In House Warrior" xmlUrl="https://feeds.buzzsprout.com/995896.rss" applePodcastsID="1508808968"/>
-			<outline type="rss" text="Ulysses - James Joyce" xmlUrl="https://www.rte.ie/radio1/podcast/podcast_ulysses.xml" applePodcastsID="1517040628"/>
-			<outline type="rss" text="Disney World is Awesome" xmlUrl="https://feeds.buzzsprout.com/1173092.rss" applePodcastsID="1520255159"/>
-			<outline type="rss" text="Insurance Speak" xmlUrl="https://insurancespeak.libsyn.com/rss" applePodcastsID="1523519382"/>
-			<outline type="rss" text="The ALPS In Brief Podcast" xmlUrl="https://feed.podbean.com/alps/feed.xml" applePodcastsID="1524851363"/>
-			<outline type="rss" text="The Environmental Law Podcast" xmlUrl="https://anchor.fm/s/2770a180/podcast/rss" applePodcastsID="1524520720"/>
-			<outline type="rss" text="ABA Journal Podcasts - Legal Talk Network" xmlUrl="https://feeds.megaphone.fm/LTN1223542566" applePodcastsID="377008759"/>
-			<outline type="rss" text="Crime in Sports / Small Town Murder Bonus!" xmlUrl="https://www.patreon.com/rss/CrimeInSports?auth=jANNr5L7wPozqs6CQppp5Uv_z6zegN6B"/>
 			<outline type="rss" text="Overtired" xmlUrl="https://overtiredpod.com/feed/podcast" applePodcastsID="944540924"/>
-			<outline type="rss" text="Last Podcast On The Left (Only new eps)" xmlUrl="https://willowpsychology.github.io/lastPodcastontheLeftRSSarchive/LPOTLnewOnly.xml"/>
-			<outline type="rss" text="Design Matters with Debbie Millman" xmlUrl="https://feeds.acast.com/public/shows/67572f5f7205a5bc68e9792a" applePodcastsID="328074695"/>
-			<outline type="rss" text="Serial" xmlUrl="https://feeds.simplecast.com/xl36XBC2" applePodcastsID="917918570"/>
-			<outline type="rss" text="5-4" xmlUrl="https://feeds.acast.com/public/shows/5fc574d8d429ec34a8292b1c" applePodcastsID="1497785843"/>
-			<outline type="rss" text="In Loco Parent(i)s" xmlUrl="https://feeds.buzzsprout.com/1538668.rss" applePodcastsID="1544196195"/>
-			<outline type="rss" text="Emerging Litigation Podcast" xmlUrl="https://feeds.buzzsprout.com/1512439.rss" applePodcastsID="1544282478"/>
 			<outline type="rss" text="How I Lawyer Podcast with Jonah Perlin" xmlUrl="https://anchor.fm/s/4575bb0c/podcast/rss" applePodcastsID="1546577526"/>
-			<outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" applePodcastsID="1200361736"/>
-			<outline type="rss" text="Oven-Ready HR" xmlUrl="https://feeds.buzzsprout.com/1545991.rss" applePodcastsID="1547591046"/>
-			<outline type="rss" text="Environmental Professionals Radio (EPR)" xmlUrl="https://feeds.buzzsprout.com/1534030.rss" applePodcastsID="1550126380"/>
-			<outline type="rss" text="Objections: With Adam Klasfeld" xmlUrl="https://rss.art19.com/objections-with-adam-klasfeld" applePodcastsID="1550656252"/>
-			<outline type="rss" text="This Past Weekend w/ Theo Von" xmlUrl="https://feeds.megaphone.fm/thispastweekend" applePodcastsID="1190981360"/>
-			<outline type="rss" text="Escalation" xmlUrl="https://feeds.acast.com/public/shows/5d28ef74d3cc3f013778b13b" applePodcastsID="1472798169"/>
 			<outline type="rss" text="Rational Security" xmlUrl="https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d" applePodcastsID="956270301"/>
-			<outline type="rss" text="The Standard of Review" xmlUrl="https://feeds.buzzsprout.com/1724314.rss" applePodcastsID="1558878043"/>
 			<outline type="rss" text="John Roderick" xmlUrl="https://www.patreon.com/rss/JohnRoderick?auth=6h-zEfPy5dNRDnLRtfUr-xP8w3Oh0viF"/>
-			<outline type="rss" text="Good Inside with Dr. Becky" xmlUrl="https://feeds.simplecast.com/Y5N0xWWZ" applePodcastsID="1561689671"/>
 			<outline type="rss" text="Do By Friday" xmlUrl="https://feeds.simplecast.com/5nKJV82u" applePodcastsID="1169249168"/>
-			<outline type="rss" text="Litigation Radio" xmlUrl="https://feeds.megaphone.fm/LTN3790072471" applePodcastsID="1565683534"/>
-			<outline type="rss" text="What Roman Mars Can Learn About Con Law" xmlUrl="https://feeds.simplecast.com/jZLi00b4" applePodcastsID="1242537529"/>
-			<outline type="rss" text="No One is Coming to Save Us" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/85e42826-0c8b-42d6-b620-ad17017ece88/18b42920-a513-4e09-b547-ad1701816ff8/podcast.rss" applePodcastsID="1566218532"/>
-			<outline type="rss" text="Divided Argument" xmlUrl="https://feeds.simplecast.com/Xo7H6ooa" applePodcastsID="1567718103"/>
 			<outline type="rss" text="Strong Songs" xmlUrl="https://feeds.strongsongspodcast.com/main" applePodcastsID="1443417194"/>
-			<outline type="rss" text="Awards Chatter" xmlUrl="https://feeds.megaphone.fm/awardschatter" applePodcastsID="1039032256"/>
-			<outline type="rss" text="Dithering" xmlUrl="https://rss.dithering.passport.online/feed/podcast/7C729yYLGHgjqFP2cv9ehs"/>
 			<outline type="rss" text="The Lawfare Podcast" xmlUrl="https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c" applePodcastsID="498897343"/>
 			<outline type="rss" text="The National Security Law Podcast" xmlUrl="https://feeds.podcastmirror.com/national-security-law" applePodcastsID="1201314368"/>
-			<outline type="rss" text="Environmental Law Monitor" xmlUrl="https://feeds.casted.us/219/Environmental-Law-Monitor-6f00aa8a/feed" applePodcastsID="1572314929"/>
-			<outline type="rss" text="Environmentally Speaking" xmlUrl="https://feeds.megaphone.fm/HERML7121026399" applePodcastsID="1577198632"/>
 			<outline type="rss" text="99% Invisible" xmlUrl="https://feeds.simplecast.com/BqbsxVfO" applePodcastsID="394775318"/>
-			<outline type="rss" text="Longform" xmlUrl="https://feeds.megaphone.fm/VMP6079657536" applePodcastsID="551088534"/>
-			<outline type="rss" text="Litigation Speaks" xmlUrl="https://feeds.simplecast.com/O7px73CZ" applePodcastsID="1580567580"/>
-			<outline type="rss" text="Conan O’Brien Needs A Friend" xmlUrl="https://feeds.simplecast.com/dHoohVNH" applePodcastsID="1438054347"/>
 			<outline type="rss" text="ADHD Aha!" xmlUrl="https://feeds.simplecast.com/yjHKUkkH" applePodcastsID="1587179913"/>
-			<outline type="rss" text="Strangeland" xmlUrl="https://feeds.simplecast.com/Gg33ecoK" applePodcastsID="1590577089"/>
-			<outline type="rss" text="Bob Saget&apos;s Here For You" xmlUrl="https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/6198863e-00db-42e4-b407-adc5016d559d/ba62aa4d-5f14-4bf0-bfe3-adc5016d55ab/podcast.rss" applePodcastsID="1592926861"/>
-			<outline type="rss" text="Conspirituality" xmlUrl="https://feeds.megaphone.fm/GLSS1122389842" applePodcastsID="1515827446"/>
-			<outline type="rss" text="True Crime Garage" xmlUrl="https://feeds.simplecast.com/zatU8XEL" applePodcastsID="1062418176"/>
-			<outline type="rss" text="Criminal" xmlUrl="https://feeds.megaphone.fm/VMP7924981569" applePodcastsID="809264944"/>
-			<outline type="rss" text="Road Work" xmlUrl="https://feeds.fireside.fm/roadwork/rss" applePodcastsID="1030602911"/>
-			<outline type="rss" text="The Dollop with Dave Anthony and Gareth Reynolds" xmlUrl="https://www.omnycontent.com/d/playlist/885ace83-027a-47ad-ad67-aca7002f1df8/22b063ac-654d-428f-bd69-ae2400349cde/65ff0206-b585-4e2a-9872-ae240034c9c9/podcast.rss" applePodcastsID="643055307"/>
-			<outline type="rss" text="Back to Work" xmlUrl="https://feeds.fireside.fm/backtowork/rss" applePodcastsID="415535037"/>
-			<outline type="rss" text="Beneficiary Rights" xmlUrl="https://anchor.fm/s/7ca53634/podcast/rss" applePodcastsID="1603685442"/>
-			<outline type="rss" text="Litigation Nation" xmlUrl="https://rss.pdrl.fm/43df8e/feeds.transistor.fm/litigation-nation" applePodcastsID="1604235735"/>
-			<outline type="rss" text="The Town with Matthew Belloni" xmlUrl="https://feeds.megaphone.fm/the-town-with-matthew-belloni" applePodcastsID="1612131897"/>
-			<outline type="rss" text="It Could Happen Here" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/bc7f369b-dce6-43c2-897e-ae2d0145ca12/podcast.rss" applePodcastsID="1449762156"/>
-			<outline type="rss" text="Small Town Murder" xmlUrl="https://rss.art19.com/smalltownmurder" applePodcastsID="1194755213"/>
-			<outline type="rss" text="Crime in Sports" xmlUrl="https://rss.art19.com/crimeinsports" applePodcastsID="1082678396"/>
-			<outline type="rss" text="Parts Per Billion" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a13719a3-3feb-48b9-a833-ae3900816d3a/5c8017de-67ca-4c88-9c3b-ae3900816d43/podcast.rss" applePodcastsID="1096811000"/>
-			<outline type="rss" text="How to Make Love Last" xmlUrl="https://media.rss.com/how-to-make-love-last/feed.xml" applePodcastsID="1615858153"/>
-			<outline type="rss" text="Cautionary Tales with Tim Harford" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss" applePodcastsID="1484511465"/>
-			<outline type="rss" text="On the Media" xmlUrl="http://feeds.feedburner.com/onthemedia" applePodcastsID="73330715"/>
-			<outline type="rss" text="Serious Trouble" xmlUrl="https://api.substack.com/feed/podcast/906465.rss" applePodcastsID="1630160928"/>
-			<outline type="rss" text="Disney Bucket List - A Walt Disney World Podcast" xmlUrl="https://feed.podbean.com/Ajoelnewworld/feed.xml" applePodcastsID="1629745310"/>
 			<outline type="rss" text="Calm Parenting Podcast" xmlUrl="https://rss.art19.com/calm-parenting" applePodcastsID="1281790712"/>
 			<outline type="rss" text="WTF with Marc Maron Podcast" xmlUrl="https://access.acast.com/rss/62a222737c02140013aa4c03/" applePodcastsID="329875043"/>
-			<outline type="rss" text="On with Kara Swisher" xmlUrl="https://feeds.megaphone.fm/VMP1684715893" applePodcastsID="1643307527"/>
 			<outline type="rss" text="Song Exploder" xmlUrl="https://feed.songexploder.net/SongExploder" applePodcastsID="788236947"/>
-			<outline type="rss" text="Really Specific Stories" xmlUrl="https://feeds.fireside.fm/reallyspecificstories/rss" applePodcastsID="1632860643"/>
-			<outline type="rss" text="Esquiring Minds" xmlUrl="https://feeds.zencastr.com/f/gWoYl5b0.rss" applePodcastsID="1661317618"/>
-			<outline type="rss" text="Minimum Competence" xmlUrl="https://api.substack.com/feed/podcast/1512502.rss" applePodcastsID="1668925072"/>
 			<outline type="rss" text="Lore" xmlUrl="https://feeds.libsyn.com/65267/rss" applePodcastsID="978052928"/>
-			<outline type="rss" text="The Negotiators" xmlUrl="https://feeds.megaphone.fm/FGP9503320473" applePodcastsID="1588774837"/>
-			<outline type="rss" text="Main Justice" xmlUrl="https://podcastfeeds.nbcnews.com/qjknXbdF" applePodcastsID="1679657705"/>
-			<outline type="rss" text="The Always Sunny Podcast" xmlUrl="https://feeds.megaphone.fm/TPC3838283892" applePodcastsID="1594627983"/>
-			<outline type="rss" text="The Project Gutenberg Open Audiobook Collection" xmlUrl="https://marhamilresearch4.blob.core.windows.net/gutenberg-public/rss.xml" applePodcastsID="1680867884"/>
-			<outline type="rss" text="ForCast - A Podcast by Fortess Insurance" xmlUrl="https://support.doctorpodcasting.com/podcastfeed/190" applePodcastsID="1684596401"/>
+			<outline type="rss" text="Understood: Who Broke the Internet?" xmlUrl="https://www.cbc.ca/podcasting/includes/nakedemperor.xml" applePodcastsID="1673817105"/>
 			<outline type="rss" text="Search Engine" xmlUrl="https://feeds.megaphone.fm/search-engine" applePodcastsID="1614253637"/>
-			<outline type="rss" text="Speaking of Litigation Podcast" xmlUrl="https://feeds.libsyn.com/474066/rss" applePodcastsID="1688464057"/>
 			<outline type="rss" text="The Rest Is History" xmlUrl="https://feeds.megaphone.fm/GLT4787413333" applePodcastsID="1537788786"/>
-			<outline type="rss" text="True Crime Review Podcast" xmlUrl="https://truecrime.podigee.io/feed/mp3"/>
 			<outline type="rss" text="Handsome" xmlUrl="https://rss.art19.com/handsome" applePodcastsID="1702258458"/>
-			<outline type="rss" text="The 404 Media Podcast" xmlUrl="https://feeds.megaphone.fm/TBIEA2761282490" applePodcastsID="1703615331"/>
-			<outline type="rss" text="Adventures of a Disney Dad: A Walt Disney World Trip Planning Podcast" xmlUrl="https://feed.podbean.com/adventuresofadisneydad/feed.xml" applePodcastsID="1705806542"/>
-			<outline type="rss" text="More Perfect" xmlUrl="https://feeds.simplecast.com/lQwwDIs1" applePodcastsID="1117202653"/>
-			<outline type="rss" text="Dead End: A New Jersey Political Murder Mystery" xmlUrl="https://feeds.simplecast.com/xaAbEh9E" applePodcastsID="1619136598"/>
-			<outline type="rss" text="Lawyers in the Making Podcast" xmlUrl="https://api.substack.com/feed/podcast/2386413.rss" applePodcastsID="1712409014"/>
 			<outline type="rss" text="Dot Social" xmlUrl="https://feeds.simplecast.com/kk8bweIK" applePodcastsID="1717622022"/>
 			<outline type="rss" text="Molly White&apos;s Citation Needed" xmlUrl="https://www.spreaker.com/show/6019906/episodes/feed" applePodcastsID="1719025552"/>
 			<outline type="rss" text="Never Post" xmlUrl="https://feed.neverpo.st" applePodcastsID="1719307150"/>
 			<outline type="rss" text="Decentered" xmlUrl="https://wedistribute.org/feed/podcast/decentered/" applePodcastsID="1725561127"/>
-			<outline type="rss" text="(Subscription Expired) Accidental Tech Podcast: Unedited Live Stream" xmlUrl="https://atp.fm/bootleg/5aa8a61x3nrx"/>
-			<outline type="rss" text="(Subscription Expired) Accidental Tech Podcast: Specials" xmlUrl="https://atp.fm/specials/5aa8a61x3nrx"/>
-			<outline type="rss" text="This Week in Privacy" xmlUrl="https://fm.neat.tube/@thisweekinprivacy/feed.xml" applePodcastsID="1726826455"/>
-			<outline type="rss" text="Power User with Taylor Lorenz" xmlUrl="https://anchor.fm/s/ff8b4e30/podcast/rss" applePodcastsID="1733535260"/>
+			<outline type="rss" text="Radiolab" xmlUrl="https://feeds.simplecast.com/EmVW7VGp" applePodcastsID="152249110"/>
+			<outline type="rss" text="Taylor Lorenz's Power User" xmlUrl="https://anchor.fm/s/ff8b4e30/podcast/rss" applePodcastsID="1733535260"/>
 			<outline type="rss" text="Omnibus" xmlUrl="https://audioboom.com/channels/5127257.rss" applePodcastsID="1318335827"/>
 			<outline type="rss" text="Ctrl-Alt-Speech" xmlUrl="https://feeds.buzzsprout.com/2315966.rss" applePodcastsID="1734530193"/>
-			<outline type="rss" text="PLUS Podcast" xmlUrl="https://feeds.buzzsprout.com/1312540.rss"/>
-			<outline type="rss" text="Long Shadow" xmlUrl="https://publicfeeds.net/f/6760/feed-rss.xml" applePodcastsID="1577471264"/>
-			<outline type="rss" text="WDW Radio - Your Walt Disney World Information Station" xmlUrl="https://feeds.libsyn.com/83521/rss" applePodcastsID="215517191"/>
-			<outline type="rss" text="The TED AI Show" xmlUrl="https://feeds.acast.com/public/shows/6758564a102e6d4448d19589" applePodcastsID="1741574582"/>
-			<outline type="rss" text="WDW Prep To Go - a Disney World planning podcast" xmlUrl="https://feeds.libsyn.com/46792/rss" applePodcastsID="689854999"/>
-			<outline type="rss" text="The Dream" xmlUrl="https://feeds.acast.com/public/shows/6658b69029c9180011547e68" applePodcastsID="1435743296"/>
+			<outline type="rss" text="Claims Never Sleep" xmlUrl="https://feeds.transistor.fm/claims-never-sleep" applePodcastsID="1730830591"/>
+			<outline type="rss" text="On the Media" xmlUrl="https://feeds.simplecast.com/o4jAFXaw" applePodcastsID="73330715"/>
 			<outline type="rss" text="Scripting News podcast" xmlUrl="http://scripting.com/podcast.xml" applePodcastsID="1753971770"/>
-			<outline type="rss" text="Reedy Geeks: A Walt Disney World Podcast" xmlUrl="https://media.rss.com/reedygeeks/feed.xml" applePodcastsID="1757711134"/>
-			<outline type="rss" text="Office Ladies" xmlUrl="https://feeds.megaphone.fm/office-ladies" applePodcastsID="1480311435"/>
 			<outline type="rss" text="For a Better Web" xmlUrl="https://anchor.fm/s/fa587fdc/podcast/rss"/>
-			<outline type="rss" text="Armchair Expert with Dax Shepard" xmlUrl="https://rss.art19.com/armchair-expert" applePodcastsID="1345682353"/>
 			<outline type="rss" text="Hard Fork" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" applePodcastsID="1528594034"/>
 			<outline type="rss" text="The Ezra Klein Show" xmlUrl="https://feeds.simplecast.com/82FI35Px" applePodcastsID="1548604447"/>
-			<outline type="rss" text="Interesting Times with Ross Douthat" xmlUrl="https://feeds.simplecast.com/2xzUiHxw" applePodcastsID="1438024613"/>
 			<outline type="rss" text="Siracusa Says" xmlUrl="https://siracusasays.com/rss.xml"/>
-			<outline type="rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss" applePodcastsID="1074507850"/>
 			<outline type="rss" text="Fall of Civilizations Podcast" xmlUrl="https://anchor.fm/s/101adcf44/podcast/rss" applePodcastsID="1449884495"/>
-			<outline type="rss" text="Otherwise Objectionable" xmlUrl="https://media.rss.com/otherwise-objectionable/feed.xml" applePodcastsID="1798723661"/>
-			<outline type="rss" text="Joe&apos;s Breadcrums" xmlUrl="https://f7b100ea-8c26-407e-a607-3a5eccd16e04:0382a3e1c3536487d4559c0e05d70ac0c14919fe8536bcc6d803706f04e99e8f@breadcrum.net/api/feeds/a918eaaa-c17a-46c8-a30d-663fccb6a662"/>
-			<outline type="rss" text="First One (private feed for joe@joeross.me)" xmlUrl="https://api.substack.com/feed/podcast/1174827/private/70904916-9e32-4ded-bab6-c81db29d861e.rss"/></outline>
+			<outline type="rss" text="Joe&apos;s Breadcrums" xmlUrl="https://f7b100ea-8c26-407e-a607-3a5eccd16e04:0382a3e1c3536487d4559c0e05d70ac0c14919fe8536bcc6d803706f04e99e8f@breadcrum.net/api/feeds/a918eaaa-c17a-46c8-a30d-663fccb6a662"/></outline>
 	</body>
 </opml>
