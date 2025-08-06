@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="2.0">
+	<head>
+		<title>Castro Podcasts OPML</title>
+		<dateCreated>Wed, 06 Aug 2025 08:00:16 GMT</dateCreated>
+	</head>
+	<body>
+		<outline text="Roderick on the Line" type="rss" xmlUrl="https://feeds.feedburner.com/RoderickOnTheLine" />
+		<outline text="Techdirt" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:122508048/sounds.rss" />
+		<outline text="Reconcilable Differences" type="rss" xmlUrl="https://www.relay.fm/rd/feed" />
+		<outline text="Cortex" type="rss" xmlUrl="https://www.relay.fm/cortex/feed" />
+		<outline text="Decoder with Nilay Patel" type="rss" xmlUrl="https://feeds.megaphone.fm/recodedecode" />
+		<outline text="The Vergecast" type="rss" xmlUrl="https://feeds.megaphone.fm/vergecast" />
+		<outline text="Accidental Tech Podcast" type="rss" xmlUrl="https://atp.fm/episodes?format=rss" />
+		<outline text="Do By Friday" type="rss" xmlUrl="https://feeds.simplecast.com/5nKJV82u" />
+		<outline text="Molly White&apos;s Citation Needed" type="rss" xmlUrl="https://www.spreaker.com/show/6019906/episodes/feed" />
+		<outline text="The Talk Show With John Gruber" type="rss" xmlUrl="https://daringfireball.net/thetalkshow/rss" />
+		<outline text="U.S. Supreme Court Oral Arguments" type="rss" xmlUrl="https://api.oyez.org/podcasts/oral-arguments/2015" />
+		<outline text="Connected" type="rss" xmlUrl="https://www.relay.fm/connected/feed" />
+		<outline text="Mac Power Users" type="rss" xmlUrl="https://www.relay.fm/mpu/feed" />
+		<outline text="Oral Arguments for the Court of Appeals for the Third Circuit" type="rss" xmlUrl="https://www.courtlistener.com/podcast/court/ca3/" />
+		<outline text="Core Intuition" type="rss" xmlUrl="https://coreint.org/index.php?feed=podcast" />
+		<outline text="Rational Security" type="rss" xmlUrl="https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d" />
+		<outline text="The Lawfare Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c" />
+		<outline text="The National Security Law Podcast" type="rss" xmlUrl="https://feeds.podcastmirror.com/national-security-law" />
+		<outline text="WTF with Marc Maron Podcast" type="rss" xmlUrl="https://access.acast.com/rss/62a222737c02140013aa4c03/default" />
+		<outline text="Dot Social" type="rss" xmlUrl="https://feeds.simplecast.com/kk8bweIK" />
+		<outline text="Ctrl-Alt-Speech" type="rss" xmlUrl="https://feeds.buzzsprout.com/2315966.rss" />
+		<outline text="Lawfare No Bull" type="rss" xmlUrl="https://feeds.acast.com/public/shows/613faeac0d07cc0012b28958" />
+		<outline text="The Rest Is History" type="rss" xmlUrl="https://feeds.megaphone.fm/GLT4787413333" />
+		<outline text="Joe&apos;s Breadcrums" type="rss" xmlUrl="https://f7b100ea-8c26-407e-a607-3a5eccd16e04:0382a3e1c3536487d4559c0e05d70ac0c14919fe8536bcc6d803706f04e99e8f@breadcrum.net/api/feeds/a918eaaa-c17a-46c8-a30d-663fccb6a662" />
+		<outline text="First One (private feed for joe@joeross.me)" type="rss" xmlUrl="https://api.substack.com/feed/podcast/1174827/private/70904916-9e32-4ded-bab6-c81db29d861e.rss" />
+		<outline text="CourtListener.com: Podcast of All Oral Arguments available in the Federal Circuit Courts (High Volume)" type="rss" xmlUrl="https://www.courtlistener.com/podcast/court/all/" />
+		<outline text="Understood: Who Broke the Internet?" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/nakedemperor.xml" />
+	</body>
+</opml>
