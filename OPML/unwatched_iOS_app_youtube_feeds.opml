@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="2.0">
+  <head>
+    <title>YouTube RSS Feeds</title>
+    <dateCreated>Wed, 06 Aug 2025 12:00:00 GMT</dateCreated>
+    <dateModified>Wed, 06 Aug 2025 12:00:00 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="YouTube Channels" title="YouTube Channels">
+      <outline text="LastWeekTonight" title="LastWeekTonight" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ" htmlUrl="https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ"/>
+      <outline text="Technology Connections" title="Technology Connections" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" htmlUrl="https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+      <outline text="CGP Grey" title="CGP Grey" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w"/>
+      <outline text="SciShow" title="SciShow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" htmlUrl="https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow"/>
+      <outline text="Snazzy Labs" title="Snazzy Labs" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w" htmlUrl="https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w"/>
+      <outline text="How to ADHD" title="How to ADHD" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-nPM1_kSZf91ZGkcgy_95Q" htmlUrl="https://www.youtube.com/channel/UC-nPM1_kSZf91ZGkcgy_95Q"/>
+      <outline text="Practical Engineering" title="Practical Engineering" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ" htmlUrl="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ"/>
+      <outline text="The Verge" title="The Verge" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCddiUEpeqJcYeBxX1IVBKvQ" htmlUrl="https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ"/>
+      <outline text="Saturday Night Live" title="Saturday Night Live" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqFzWxSCi39LnW1JKFR3efg" htmlUrl="https://www.youtube.com/channel/UCqFzWxSCi39LnW1JKFR3efg"/>
+      <outline text="Veritasium" title="Veritasium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+      <outline text="Dime Store Adventures" title="Dime Store Adventures" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUMQFUkgaEE68_ujIdW2wAw" htmlUrl="https://www.youtube.com/channel/UCUMQFUkgaEE68_ujIdW2wAw"/>
+      <outline text="The Onion" title="The Onion" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfAOh2t5DpxVrgS9NQKjC7A" htmlUrl="https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A"/>
+      <outline text="Hipyo Tech" title="Hipyo Tech" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXlDgfWY2JbsYEam2m68Hyw" htmlUrl="https://www.youtube.com/channel/UCXlDgfWY2JbsYEam2m68Hyw"/>
+      <outline text="Watchlist" title="Watchlist" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLZNtUgPAeqgqyzw12dir-m4B-uAlaNyxN&amp;si=iXxowNF29DnA4lkL" htmlUrl="https://www.youtube.com/playlist?list=PLZNtUgPAeqgqyzw12dir-m4B-uAlaNyxN"/>
+      <outline text="I'm Happy You're Here" title="I'm Happy You're Here" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNai2utblTj1OVCnOx2Eofg" htmlUrl="https://www.youtube.com/channel/UCNai2utblTj1OVCnOx2Eofg"/>
+    </outline>
+  </body>
+</opml>
